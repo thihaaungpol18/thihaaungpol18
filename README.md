@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thihaaungpol18" alt="thihaaungpol18" /></a> </p>
 
-- 🔭 I’m currently working on [Flask Complete App(I'll Public Later)](https://github.com/thihaaungpol18/twodigitapp)
+- 🔭 I’m currently working on [Firebase Video App](https://github.com/thihaaungpol18/FirebaseVideoApp)
 
 - 🌱 I’m currently learning **specially android for job ready level**
 
